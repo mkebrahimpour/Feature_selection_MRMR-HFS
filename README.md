@@ -8,9 +8,9 @@ subset selection.s
 % Copyright (c) 2016 by Mohammad Kazem Ebrahimpour & Mahdi Eftekhari
 --------------------------------------------------------------------
 
-====================================================================
+=================================
 Quick hints for runnig the code:
 1-open the driver0
 2-load your own dataset
 3-run the algorithm
-====================================================================
+================================
